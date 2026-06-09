@@ -1,5 +1,13 @@
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt
-https://big.oisd.nl/
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/ultimate.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nrd7.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nrd14-8.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/tif.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/fake.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/doh-vpn-proxy-bypass.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/dyndns.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/hoster.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/spam-tlds-adblock-aggressive.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
