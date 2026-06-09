@@ -3,3 +3,4 @@
 (\.|^)ebay\.com$
 (\.|^)t\.co$
 g.live.com
+(\.|^)stun[^.]*\.
