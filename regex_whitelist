@@ -7,3 +7,5 @@ g.live.com
 (\.|^)wiz\.world$
 (\.|^)data\.microsoft\.com$
 (\.|^)office\.com$
+(\.|^)github\.com$
+(\.|^)gitlab\.com$
