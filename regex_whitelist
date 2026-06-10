@@ -5,4 +5,4 @@
 g.live.com
 (\.|^)stun[^.]*\.
 (\.|^)wiz\.world$
-(\.|^)events\.data\.microsoft\.com$
+(\.|^)data\.microsoft\.com$
