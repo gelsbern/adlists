@@ -6,3 +6,4 @@ g.live.com
 (\.|^)stun[^.]*\.
 (\.|^)wiz\.world$
 (\.|^)data\.microsoft\.com$
+(\.|^)office\.com$
