@@ -2,7 +2,6 @@
 (\.|^)afginc\.com$
 (\.|^)ebay\.com$
 (\.|^)t\.co$
-g.live.com
 (\.|^)stun[^.]*\.
 (\.|^)wiz\.world$
 (\.|^)office\.com$
@@ -12,3 +11,4 @@ g.live.com
 (\.|^)minerva\.devices\.a2z\.com$
 (\.|^)tas\.com$
 (\.|^)privateinternetaccess\.com$
+(\.|^)amnezia\.org$
