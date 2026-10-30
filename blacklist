@@ -1,7 +1,5 @@
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/ultimate.txt
-https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nrd7.txt
-https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nrd14-8.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/tif.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/fake.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/doh-vpn-proxy-bypass.txt
@@ -32,4 +30,5 @@ https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
-https://urlhaus.abuse.ch/downloads/hostfile/
+https://raw.githubusercontent.com/Okazakee/tv-dns-blocklist/main/pihole/block-strict.txt
+https://raw.githubusercontent.com/Okazakee/tv-dns-blocklist/main/pihole/allow.txt
